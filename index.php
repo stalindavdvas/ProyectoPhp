@@ -52,7 +52,7 @@
 <body>
     <div class="container">
         <h1>Count number of words in
-            <img src="php.png" width="50%" height="50%">
+            <img src="php.png">
         </h1>
 
         <form method="post" action="">
