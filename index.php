@@ -51,7 +51,9 @@
 
 <body>
     <div class="container">
-        <h1>Count number of words in PHP</h1>
+        <h1>Count number of words in
+            <img src="php.png" width="50%" height="50%">
+        </h1>
 
         <form method="post" action="">
             <label for="texto">Say something:</label><br>
